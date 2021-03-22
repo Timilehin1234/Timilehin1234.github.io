@@ -1,0 +1,48 @@
+#image{
+    height:50px;
+     width:50px;
+     margin-left: 10px;
+     margin-top: 15px;
+     margin-bottom: 10px;
+}
+.this{
+    background-color:  rgb(184, 130, 59);
+    height:30px;
+    
+    padding:5px
+}
+body{
+    background-color: rgb(235, 211, 182);
+}
+.this1{
+    
+        background-color: cornflowerblue;
+        height:50px;
+        margin:30px;
+        padding:5px;
+        color:rgb(51, 66, 133)
+    }
+   .this2{
+    background-color: rgb(184, 130, 59);
+    margin-top:15px;
+    height:20px;
+    padding:10px;
+   }
+   .this3{
+       width:170px;
+       align: center;
+       background-color:aqua;
+       height:35px;
+       color:white;
+       border:1px;
+
+   }
+   #this3{
+       background-color: rgb(44, 44, 196);
+   }
+   .this4{
+       background-color: blue;
+       color: white;
+       border: none;
+       height: 50px;
+   }

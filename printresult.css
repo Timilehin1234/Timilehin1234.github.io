@@ -1,0 +1,30 @@
+.val{
+    background-color: rgb(27, 13, 8);
+width:100%;
+height: 80px;
+}
+#image{
+    height:50px;
+    width:50px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+body{
+    background-color: rgb(235, 211, 182);
+}
+.this1{
+    background-color: rgb(184, 130, 59);
+    height:30px;
+    padding:5px;
+    text-decoration: none;
+}
+.img{
+    height: 30px;
+    width:100px;
+}
+.this2{
+    background-color: aqua;
+    color:white;
+    border:0px;
+    height:50px;
+}
